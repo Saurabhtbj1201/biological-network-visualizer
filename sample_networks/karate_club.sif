@@ -1,0 +1,25 @@
+# Sample Karate Club Network (as SIF format)
+# Classic network for testing community detection
+# Format: Node1 Interaction Node2
+
+Mr_Hi admin Officer
+Mr_Hi admin Node0
+Mr_Hi admin Node1
+Mr_Hi admin Node2
+Mr_Hi admin Node3
+Officer admin Node0
+Officer admin Node1
+Officer admin Node4
+Node0 friend Node1
+Node0 friend Node2
+Node0 friend Node3
+Node1 friend Node2
+Node1 friend Node3
+Node2 friend Node3
+Node3 friend Node4
+Node3 friend Node5
+Node4 friend Node5
+Node5 friend Node6
+Node6 friend Node7
+Node7 friend Node8
+Node8 friend Node9
